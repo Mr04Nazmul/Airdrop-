@@ -1,0 +1,16 @@
+project_id = "YOUR_PROJECT_REF"
+
+[functions.challenge]
+verify_jwt = false
+[functions.verify]
+verify_jwt = false
+[functions.heartbeat]
+verify_jwt = false
+[functions.stop]
+verify_jwt = false
+[functions.me]
+verify_jwt = false
+[functions.admin-stats]
+verify_jwt = false
+[functions.admin-users]
+verify_jwt = false
